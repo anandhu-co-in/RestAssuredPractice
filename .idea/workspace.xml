@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d29e8b9-3595-49ea-a3ff-b72612ae1f7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wq2gNKXSIFuIAWLzwHo4YiWkPL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RunManager" selected="TestNG.RA_002_WithStaticImports">
+    <configuration name="RA_001_Helloworld" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RA_001_Helloworld" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RA_001_Helloworld.helloWorld" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RA_001_Helloworld" />
+      <option name="METHOD_NAME" value="helloWorld" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RA_001_Helloworld.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RA_001_Helloworld" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RA_002_WithStaticImports" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RA_002_WithStaticImports" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RA_002_WithStaticImports.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RA_002_WithStaticImports" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RA_002_WithStaticImports" />
+        <item itemvalue="TestNG.RA_002_WithStaticImports.test" />
+        <item itemvalue="TestNG.RA_001_Helloworld" />
+        <item itemvalue="TestNG.RA_001_Helloworld.test2" />
+        <item itemvalue="TestNG.RA_001_Helloworld.helloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d29e8b9-3595-49ea-a3ff-b72612ae1f7f" name="Default Changelist" comment="" />
+      <created>1629171908596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629171908596</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1629178679889">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1629178679889" />
+    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1629178679888">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1629178679888" />
+    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1629178679888">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1629178679888" />
+    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1629178679889">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1629178679889" />
+  </component>
+</project>
