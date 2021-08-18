@@ -1,7 +1,7 @@
 import org.testng.annotations.Test;
 
-import static io.restassured.RestAssured.*;
-import static org.hamcrest.Matchers.*;
+        import static io.restassured.RestAssured.*;
+        import static org.hamcrest.Matchers.*;
 
 public class RA_002_WithStaticImports {
 
@@ -10,7 +10,7 @@ public class RA_002_WithStaticImports {
 
         given().
                 get("https://reqres.in/api/users?page=2").
-        then().
+                then().
                 statusCode(200).
                 body("data.first_name",hasItems("Michael"));
     }

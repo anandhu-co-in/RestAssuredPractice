@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d29e8b9-3595-49ea-a3ff-b72612ae1f7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/RA_003_Parameters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RA_002_WithStaticImports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RA_002_WithStaticImports.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,42 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
-  <component name="RunManager" selected="TestNG.RA_002_WithStaticImports">
-    <configuration name="RA_001_Helloworld" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RA_001_Helloworld" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RA_001_Helloworld.helloWorld" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RA_001_Helloworld" />
-      <option name="METHOD_NAME" value="helloWorld" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RA_001_Helloworld.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RA_001_Helloworld" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.RA_003_Parameters">
     <configuration name="RA_002_WithStaticImports" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -89,13 +57,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RA_003_Parameters" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RA_003_Parameters" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RA_003_Parameters.PostRequetHereWeneedtoAddaBody" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RA_003_Parameters" />
+      <option name="METHOD_NAME" value="PostRequetHereWeneedtoAddaBody" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RA_003_Parameters.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RA_003_Parameters" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RA_003_Parameters" />
+        <item itemvalue="TestNG.RA_003_Parameters.PostRequetHereWeneedtoAddaBody" />
+        <item itemvalue="TestNG.RA_003_Parameters.test" />
         <item itemvalue="TestNG.RA_002_WithStaticImports" />
         <item itemvalue="TestNG.RA_002_WithStaticImports.test" />
-        <item itemvalue="TestNG.RA_001_Helloworld" />
-        <item itemvalue="TestNG.RA_001_Helloworld.test2" />
-        <item itemvalue="TestNG.RA_001_Helloworld.helloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -125,21 +128,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1629180801544">
+    <state width="1493" height="399" key="GridCell.Tab.0.bottom" timestamp="1629271510350">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1629180801544" />
-    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1629180801544">
+    <state width="1493" height="399" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1629271510350" />
+    <state width="1493" height="399" key="GridCell.Tab.0.center" timestamp="1629271510350">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1629180801544" />
-    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1629180801543">
+    <state width="1493" height="399" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1629271510350" />
+    <state width="1493" height="399" key="GridCell.Tab.0.left" timestamp="1629271510350">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1629180801543" />
-    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1629180801544">
+    <state width="1493" height="399" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1629271510350" />
+    <state width="1493" height="399" key="GridCell.Tab.0.right" timestamp="1629271510350">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1629180801544" />
+    <state width="1493" height="399" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1629271510350" />
+    <state x="477" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1629268594864">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="477" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1629268594864" />
   </component>
 </project>
