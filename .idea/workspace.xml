@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d29e8b9-3595-49ea-a3ff-b72612ae1f7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/RA_004_DataDrivenTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RA_004_ParametersThroughTestNGXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RA_004_JSONSchemaValidating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/scheme.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RA_003_Parameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RA_003_Parameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RA_004_ParametersThroughTestNGXML.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RA_004_ParametersThroughTestNGXML.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,33 +37,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
-  <component name="RunManager" selected="TestNG.RA_004_ParametersThroughTestNGXML">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anandhukrishnan.v\OneDrive - EY\Desktop\Documents\My_HobbyProjects\RestAssuredPractice\src\test" />
+      <recent name="C:\Users\anandhukrishnan.v\OneDrive - EY\Desktop\Documents\My_HobbyProjects\RestAssuredPractice\target\test-classes" />
+      <recent name="C:\Users\anandhukrishnan.v\OneDrive - EY\Desktop\Documents\My_HobbyProjects\RestAssuredPractice\src\test\java" />
+      <recent name="C:\Users\anandhukrishnan.v\OneDrive - EY\Desktop\Documents\My_HobbyProjects\RestAssuredPractice\target" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RA_004_JSONSchemaValidating.test">
     <configuration name="C:/Users/anandhukrishnan.v/OneDrive - EY/Desktop/Documents/My_HobbyProjects/RestAssuredPractice/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredPractice" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RA_004_DataDrivenTesting (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RA_004_DataDrivenTesting" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RA_004_DataDrivenTesting (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RA_004_DataDrivenTesting" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -75,6 +61,29 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RA_004_DataDrivenTesting" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RA_004_JSONSchemaValidating" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RA_004_JSONSchemaValidating" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RA_004_JSONSchemaValidating.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RA_004_JSONSchemaValidating" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -94,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RA_004_JSONSchemaValidating.test" />
+        <item itemvalue="TestNG.RA_004_JSONSchemaValidating" />
+        <item itemvalue="TestNG.RA_004_DataDrivenTesting" />
         <item itemvalue="TestNG.RA_004_ParametersThroughTestNGXML" />
         <item itemvalue="TestNG.C:/Users/anandhukrishnan.v/OneDrive - EY/Desktop/Documents/My_HobbyProjects/RestAssuredPractice/testng.xml" />
-        <item itemvalue="TestNG.RA_004_DataDrivenTesting (2)" />
-        <item itemvalue="TestNG.RA_004_DataDrivenTesting (1)" />
-        <item itemvalue="TestNG.RA_004_DataDrivenTesting" />
       </list>
     </recent_temporary>
   </component>
@@ -131,22 +140,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="286" key="GridCell.Tab.0.bottom" timestamp="1629769707144">
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1629772861536">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1629769707144" />
-    <state width="1493" height="286" key="GridCell.Tab.0.center" timestamp="1629769707144">
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1629772861536" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1629772861536">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="286" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1629769707144" />
-    <state width="1493" height="286" key="GridCell.Tab.0.left" timestamp="1629769707144">
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1629772861536" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1629772861536">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="286" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1629769707144" />
-    <state width="1493" height="286" key="GridCell.Tab.0.right" timestamp="1629769707144">
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1629772861536" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1629772861536">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="286" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1629769707144" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1629772861536" />
     <state x="477" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1629767557512">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
